@@ -1,0 +1,25 @@
+{
+  "name": "servo",
+  "version": "0.1.0",
+  "description": "A Discord bot that can return Magic card information, pictures, and prices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scryfall/servo.git"
+  },
+  "author": "Scryfall <https://scryfall.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scryfall/servo/issues"
+  },
+  "homepage": "https://github.com/scryfall/servo#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "request": "^2.79.0",
+    "request-promise-native": "^1.0.3",
+    "urijs": "^1.18.4"
+  }
+}
