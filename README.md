@@ -2,13 +2,11 @@
 
 Servo is a Discord bot that will post the text or image of a Magic: the Gathering card to a text channel when its name is referenced.
 
-
 ## Usage
 
-You must have the _Manage Server_ permission to add Servo to your server.
+You must have the _Manage Server_ permission to add Servo to your Discord server.
 
-**Install:** https://discordapp.com/oauth2/authorize?client_id=268465857712095232&scope=bot
-
+[![Install Servo](docs/button-servo.png)](https://discordapp.com/oauth2/authorize?client_id=268465857712095232&scope=bot)
 
 ## Features
 
@@ -28,7 +26,7 @@ Servo will also attempt to fix misspellings or partial card names:
 
 ### Manamoji
 
-**Download**: [`manamoji.zip`](https://github.com/scryfall/servo/releases/download/1.0/manamoji.zip)
+[![Download Emoji](docs/button-emoji.png)](https://github.com/scryfall/servo/releases/download/1.0/manamoji.zip)
 
 Magic cards often contain symbols that cannot be replicated in text, but Servo ships with a set of images that can be used as [custom emoji](https://support.discordapp.com/hc/en-us/articles/207619737-Adding-Emoji-Magic) to replace them with their graphical equivalents. Discord limits you to 50 custom emoji, so you'll have to choose which ones are most appropriate for your users.
 
