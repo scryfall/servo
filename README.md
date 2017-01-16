@@ -7,7 +7,7 @@ Servo is a Discord bot that will post the text or image of a Magic: the Gatherin
 
 You must have the _Manage Server_ permission to add Servo to your server.
 
-**Install:** https://discordapp.com/oauth2/authorize?client_id=268465857712095232&scope=bot
+**Install:** https://discordapp.com/oauth2/authorize?client_id=268547439714238465&scope=bot
 
 
 ## Features
