@@ -21,7 +21,7 @@ While chatting, surround a Magic card names with brackets (`[[` and `]]`) and pr
 
 ![Example usage](docs/screenshot.png)
 
-Servo will also handles misspellings and partial card names, as long as there is a clear match:
+Servo will also handle misspellings and partial card names, as long as there is a clear match:
 
 ![Examples with misspelling](docs/misspell.png)
 
