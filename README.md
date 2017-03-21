@@ -1,3 +1,5 @@
+**Servo is deprecated now that we have a [shiny new centralized bot](https://scryfall.com/bots), but it should still work fine if you’d like to host (or tweak) your own.**
+
 # Servo
 
 Servo is a Discord bot that will post the Oracle text or image of a _Magic: the Gathering_ card to your text channels when a card name is referenced.
